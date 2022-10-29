@@ -8,6 +8,4 @@
 
 		}
 
-		echo "\n line feed ";
-
 ?>
