@@ -1,0 +1,2 @@
+# algoritmaku
+membuat algoritma 
